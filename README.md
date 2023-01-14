@@ -18,7 +18,7 @@ How to install a project locally:
 ## Usage section 
 How to use a project:
 * You can modify the code in JavaScript (.js) and add additional functionality in accoding to the task requirements
-![Screenshot_T23_manage_vs](Screenshot_T23_manage_vs.jpg)
+![Screenshot_T23_manage_vs](./Screenshot_T23_manage_vs.jpg)
 
 ## Section for credits 
 Links to the authors of a project if the project has been created by more than one person.
